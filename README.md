@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Hello</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Panuwat2539/panuwat2539/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1><a name="n">-ตารางเรียน-</a></h1>
+<p>
+<table border="3">
+<tr>
+<th>วันจันทร์</th>
+<th>วันอังคาร</th>
+<th>วันพุธ</th>
+</tr>
+<tr>
+<td>1093305 การสอนบนเว็บ</td>
+<td>1043101 การวัดและประเมินผลการเรียนรู้</td>
+<td>1093306 การออกแบบกราฟิกด้วยคอมพิวเตอร์</td>
+</tr>
+<tr>
+<td>1023202 กิจกรรมพัฒนาผู้เรียน</td>
+<td>ไม่มีเรียน</td>
+<td>ไม่มีเรียน</td>
+</tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1><a name="aov">-เกมส์ที่ชอบ-</a></h2>
+<dl>
 
-### Markdown
+<strong>pro evolution soccer <sup>2016</sup></strong>
+<dd><em>เป็นเกมจำลองฟุตบอล</em></dd>
+<li><a href="#Pes">pro evolution soccer 2016</a></li>
+<strong><sub>Pubg mobile</sub>2019</strong><br>
+<dd><em>เป็นเกมส์ยอดนิยมในขณะนี้</em></dd>
+<li><a href="#Pub">Pubg mobile</a></li>
+</dl>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<em>Hello1</em><br>
+<strong>Hello2</strong><br>
+<s>Hello3</s><br>
+<sup>Hello4</sup>Hello<br>
+<sub>Hello5</sub>Hello
 
-# Header 1
-## Header 2
-### Header 3
+<hr>
+<h2><a name="Pub">Pubg mobile</a></h2>
+<img src="pubg.jpg" height="200">
 
-- Bulleted
-- List
+<h3><a name="Pes">Pro Evolution Soccer 2016</a></h2>
+<img src="pes.jpg" height="200">
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Panuwat2539/panuwat2539/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><a href="#n">Back to top</a></p>
+<p><a href="firstpage1.htm">Back to home</a></p>
+</body>
+</html>
